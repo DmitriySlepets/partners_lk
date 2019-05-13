@@ -6,8 +6,8 @@ function create_partner(){
 	var login = document.getElementById('LOGIN').value;
 	var pass = document.getElementById('PASSWORD').value;
 
-	if(name == ""){alert('”кажите им€ партнера.'); return false;}
-	if(last_name == ""){alert('”кажите фамилию партнера.'); return false;}
+	if(name == ""){alert('”кажите название партнера.'); return false;}
+	if(last_name == ""){alert('”кажите полное название партнера.'); return false;}
 	if(mail == ""){alert('”кажите e-mail партнера.'); return false;}
 	if(login == ""){alert('”кажите логин партнера.'); return false;}
 	if(pass == ""){alert('”кажите пароль партнера.'); return false;}

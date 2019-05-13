@@ -6,8 +6,8 @@ $this->setFrameMode(true);
 
 <div class = "kk_new_partner">
 
-	<input id = "NAME" type="text" placeholder = "Имя партнера">
-	<input id = "LAST_NAME" type="text" placeholder = "Фамилия партнера">
+	<input id = "NAME" type="text" placeholder = "Название">
+	<input id = "LAST_NAME" type="text" placeholder = "Полное название">
 	<input id = "EMAIL" type="text" placeholder = "E-mail партнера">
 	<input id = "LOGIN" type="text" placeholder = "Логин партнера">
 	<input id = "PASSWORD" type="text" placeholder = "Пароль партнера">
@@ -22,8 +22,8 @@ $this->setFrameMode(true);
 	
 	<table class = "kk_table_users_spisok" border="1">
 	<tr>
-		<th>Фамилия</th>
-		<th>Имя</th>
+		<th>Полное название</th>
+		<th>Название</th>
 		<th>Логин</th>
 		<th>Адрес электронной почты</th>
 	</tr>
