@@ -43,6 +43,7 @@ $arComponentParameters = array(
             "VALUES" => $arSortFields,
             "ADDITIONAL_VALUES" => "Y",
         ),
+
         "SORT_ORDER1" => array(
             "PARENT" => "DATA_SOURCE",
             "NAME" => GetMessage("T_IBLOCK_DESC_IBBY1"),

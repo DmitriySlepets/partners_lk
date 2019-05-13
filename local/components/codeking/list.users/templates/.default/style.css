@@ -1,0 +1,5 @@
+.kk_users_spisok .kk_table_users_spisok th{padding: 5px;color: #fff; background-color: #cf1619;}
+.kk_users_spisok .kk_table_users_spisok td{padding: 5px;}
+.kk_users_spisok .kk_table_users_spisok{width:100%}
+.kk_new_partner button{background-color: #cf1619; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; line-height: 56px; font-weight: 600; font-size: 18px; text-align: center; text-decoration: none; min-height: 56px; border: none; border-radius: 40px; padding: 0 10px; margin: 0 auto; outline: 0; color: #fff; cursor: pointer; position: relative; -webkit-transition: all ease .3s; -o-transition: all ease .3s; transition: all ease .3s; margin-top: 20px;}
+.kk_new_partner input{min-height: 46px; font-size: 12px; line-height: 44px; text-align: center; color: #333; background-color: #fff; padding-left: 6px; padding-right: 6px; border: 1px solid #e5e5e5; border-radius: 40px; outline: 0;}
